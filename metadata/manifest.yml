@@ -105,4 +105,4 @@ Version-Overrides:
     - nodejs
     License-Url: https://raw.github.com/joyent/node/v0.6/LICENSE
     Install-Build-Required: true
-Source-Url: https://github.com/markschad/openshift-origin-cartridge-nodejs-sails/archive/master.zip
+Source-Url: https://github.com/npirotte/openshift-origin-cartridge-nodejs-sails/archive/master.zip
